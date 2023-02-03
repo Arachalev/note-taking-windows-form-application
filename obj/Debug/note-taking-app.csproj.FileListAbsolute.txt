@@ -1,0 +1,11 @@
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\obj\Debug\note-taking-app.csproj.AssemblyReference.cache
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\obj\Debug\note-taking-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\obj\Debug\note_taking_app.NoteApp.resources
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\obj\Debug\note_taking_app.Properties.Resources.resources
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\obj\Debug\note-taking-app.csproj.GenerateResource.cache
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\obj\Debug\note-taking-app.csproj.CoreCompileInputs.cache
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\bin\Debug\note-taking-app.exe.config
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\bin\Debug\note-taking-app.exe
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\bin\Debug\note-taking-app.pdb
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\obj\Debug\note-taking-app.exe
+C:\Users\Ekong\Documents\WebDev\C#\note-taking-app\obj\Debug\note-taking-app.pdb
